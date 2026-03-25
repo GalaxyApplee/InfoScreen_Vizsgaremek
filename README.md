@@ -1,3 +1,7 @@
+<a href="https://github.com/Zolika1234/vizsga-backend">|Backend alapja|</a> 
+<a href="https://github.com/GalaxyApplee/InfoScreenBackendProjekt">|Backend|</a> 
+<a href="https://github.com/GalaxyApplee/InfoScreenProjektVizsga">|Frontend|</a> 
+
 InfoScreen - Iskolai Tájékoztató Rendszer
 Az InfoScreen egy modern, webalapú keretrendszer, amely lehetővé teszi iskolai hirdetmények, események és üzenetek valós idejű kezelését és megjelenítését digitális kijelzőkön (TV-ken).
 
@@ -25,10 +29,7 @@ Az InfoScreen egy modern, webalapú keretrendszer, amely lehetővé teszi iskola
   <li>Ikonok: Bootstrap Icons</li>
 </ul>
 
-🖥️ Képernyőképek
-<ul>
-<li>Tipp: Itt érdemes elhelyezni egy képet a Dashboard-ról vagy az Élő előnézetről.</li>
-</ul>
+
 📖 Használati útmutató
 <ul>
 <li>Bejelentkezés: Használd az adminisztrátori fiókodat a belépéshez.</li>
@@ -54,4 +55,5 @@ Az InfoScreen egy modern, webalapú keretrendszer, amely lehetővé teszi iskola
 📜 Licenc
 <ul>
 <li>Ez a projekt az MIT licenc alatt áll.</li>
+  <a href="https://github.com/GalaxyApplee">Tóth Anton Balázs</a> és <a href="https://github.com/Zolika1234">Lovász Zoltán</a> által.
 </ul>
