@@ -1,5 +1,5 @@
-<a href="https://github.com/Zolika1234/vizsga-backend">|Backend alapja|</a> 
-<a href="https://github.com/GalaxyApplee/InfoScreenBackendProjekt">|Backend|</a> 
+<a href="https://github.com/Zolika1234/vizsga-backend">|Backend alapja|</a> <br>
+<a href="https://github.com/GalaxyApplee/InfoScreenBackendProjekt">|Backend|</a> <br>
 <a href="https://github.com/GalaxyApplee/InfoScreenProjektVizsga">|Frontend|</a> 
 
 InfoScreen - Iskolai Tájékoztató Rendszer
