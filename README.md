@@ -2,71 +2,56 @@ InfoScreen - Iskolai Tájékoztató Rendszer
 Az InfoScreen egy modern, webalapú keretrendszer, amely lehetővé teszi iskolai hirdetmények, események és üzenetek valós idejű kezelését és megjelenítését digitális kijelzőkön (TV-ken).
 
 🚀 Funkciók
-Központi Vezérlőpult: Adminisztrációs felület az üzenetek kezeléséhez.
+<ul>
+  <li>Központi Vezérlőpult: Adminisztrációs felület az üzenetek kezeléséhez.</li>
 
-Célzott üzenetküldés: Külön tartalom a diákok és a tanárok számára.
+  <li>Célzott üzenetküldés: Külön tartalom a diákok és a tanárok számára.</li>
 
-Digitális Kódfunkció: Kijelzők egyszerű párosítása generált kódok segítségével.
+  <li>Digitális Kódfunkció: Kijelzők egyszerű párosítása generált kódok segítségével.</li>
 
-Élő Előnézet: Az üzenetek szerkesztés közben azonnal láthatóak "TV nézetben".
+  <li>Élő Előnézet: Az üzenetek szerkesztés közben azonnal láthatóak "TV nézetben".</li>
 
-Sötét mód (Dark Mode): Modern, fekete-narancs (Neon-Glow) dizájn.
+  <li>Sötét mód (Dark Mode): Modern, fekete-narancs (Neon-Glow) dizájn.</li>
+</ul>
 
 🛠️ Technológiai stack
-Frontend: React.js, React Router, Bootstrap 5
+<ul>
+  <li>Frontend: React.js, React Router, Bootstrap 5</>li>
 
-Backend (ajánlott): Node.js / Express
+ <li>Backend (ajánlott): Node.js / Express</li>
 
-Stílus: Custom CSS & Neon-Glow UI components
+  <li>Stílus: Custom CSS & Neon-Glow UI components</li>
 
-Ikonok: Bootstrap Icons
+  <li>Ikonok: Bootstrap Icons</li>
+</ul>
 
-📦 Telepítés és használat
-Előfeltételek
-Node.js (v14+)
-
-npm
-
-Lépések
-Klónozd a tárolót:
-
-Bash
-git clone https://github.com/felhasznalonev/infoscreen.git
-Telepítsd a függőségeket:
-
-Bash
-cd infoscreen
-npm install
-Indítsd el a fejlesztői szervert:
-
-Bash
-npm start
-Backend indítása (JSON Server esetén):
-
-Bash
-# Ha json-servert használsz teszteléshez
-json-server --watch db.json --port 3000
 🖥️ Képernyőképek
-Tipp: Itt érdemes elhelyezni egy képet a Dashboard-ról vagy az Élő előnézetről.
-
+<ul>
+<li>Tipp: Itt érdemes elhelyezni egy képet a Dashboard-ról vagy az Élő előnézetről.</li>
+</ul>
 📖 Használati útmutató
-Bejelentkezés: Használd az adminisztrátori fiókodat a belépéshez.
+<ul>
+<li>Bejelentkezés: Használd az adminisztrátori fiókodat a belépéshez.</li>
 
-Új üzenet: Válaszd az "Új üzenet" menüpontot, írd be a címet, a tartalmat, és válaszd ki a célközönséget.
+<li>Új üzenet: Válaszd az "Új üzenet" menüpontot, írd be a címet, a tartalmat, és válaszd ki a célközönséget.</li>
 
-Küldés: Kattints a "KÜLDÉS A KIJELZŐRE" gombra. A rendszer visszajelzést ad a sikeres mentésről.
+<li>Küldés: Kattints a "KÜLDÉS A KIJELZŐRE" gombra. A rendszer visszajelzést ad a sikeres mentésről.</li>
 
-Kijelzők kezelése: A Vezérlőpulton generálhatsz új párosítási kódokat a különböző TV-khez.
-
+<li>Kijelzők kezelése: A Vezérlőpulton generálhatsz új párosítási kódokat a különböző TV-khez.</li>
+</ul>
 🤝 Hozzájárulás
-Forkold a projektet.
+<ul>
+<li>Forkold a projektet.</li>
 
-Hozz létre egy Feature ágat (git checkout -b feature/NewFeature).
+<li>Hozz létre egy Feature ágat (git checkout -b feature/NewFeature).</li>
 
-Commitold a változtatásokat (git commit -m 'Add some NewFeature').
+<li>Commitold a változtatásokat (git commit -m 'Add some NewFeature').</li>
 
-Pushold az ágat (git push origin feature/NewFeature).
+<li>Pushold az ágat (git push origin feature/NewFeature).</li>
 
-Nyiss egy Pull Request-et.
-
+<li>Nyiss egy Pull Request-et.</li>
+</ul>
 📜 Licenc
+<ul>
+<li>Ez a projekt az MIT licenc alatt áll.</li>
+</ul>
